@@ -1,3 +1,3 @@
 # amlactic
-Skills Network
-Contains my Data science tools and ecosystem assignment
+(Skills Network)
+contains my Data science tools and ecosystem assignment
